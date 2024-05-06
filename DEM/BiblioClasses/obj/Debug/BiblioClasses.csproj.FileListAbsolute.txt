@@ -1,0 +1,6 @@
+C:\Users\Администратор\Desktop\DEMO2024DANYA\DEM_EKZ\DEM\BiblioClasses\bin\Debug\BiblioClasses.dll
+C:\Users\Администратор\Desktop\DEMO2024DANYA\DEM_EKZ\DEM\BiblioClasses\bin\Debug\BiblioClasses.pdb
+C:\Users\Администратор\Desktop\DEMO2024DANYA\DEM_EKZ\DEM\BiblioClasses\obj\Debug\BiblioClasses.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\DEMO2024DANYA\DEM_EKZ\DEM\BiblioClasses\obj\Debug\BiblioClasses.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\DEMO2024DANYA\DEM_EKZ\DEM\BiblioClasses\obj\Debug\BiblioClasses.dll
+C:\Users\Администратор\Desktop\DEMO2024DANYA\DEM_EKZ\DEM\BiblioClasses\obj\Debug\BiblioClasses.pdb
